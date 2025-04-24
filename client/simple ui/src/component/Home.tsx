@@ -63,7 +63,7 @@ export const Home=()=>{
             <div className="border border-transparent-300 shadow-md w-72 mb-3 p-4">
                 <div className="text-center mb-4">
                     <h3 className="text-center text-2xl capitalize text-yellow-500">
-                        Welcome to Note Taking App
+                        Welcome
                     </h3>
                 </div>
 
