@@ -160,7 +160,7 @@ export const Home=()=>{
                                     id="email"
                                     required
                                     // defaultValue="test@gmail.com"
-                                    pattern="/^[^@ ]+@[^@ ]+\.[^@ .]{2,}$/"
+                                    pattern=".+@.+\..+"
                                     className=" text-black border w-52 hover:border-slate-800"
                                     value={formData.email}
                                     onChange={handleChange}
