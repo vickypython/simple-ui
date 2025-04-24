@@ -63,7 +63,7 @@ export const Home=()=>{
             <div className="border border-transparent-300 shadow-md w-72 mb-3 p-4">
                 <div className="text-center mb-4">
                     <h3 className="text-center text-2xl capitalize text-yellow-500">
-                        Welcome
+                        Welcome to Note Taking App
                     </h3>
                 </div>
 
@@ -113,7 +113,7 @@ export const Home=()=>{
                             <p className="text-gray-600 mt-2">
                                 Forgot your password?{" "}
                                 <button
-
+                                    
                                     className="text-blue-500 hover:underline"
                                 >
                                     Reset Password

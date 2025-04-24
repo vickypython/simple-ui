@@ -183,7 +183,7 @@ const refreshToken = async (req: Request, res: Response) => {
   }
 };
 export { signIn, signUp, logOut, refreshToken };
-  function next(err: any) {
-    throw new Error("Function not implemented.");
-  }
+  // function next(err: any) {
+  //   throw new Error("Function not implemented.");
+  // }
 
